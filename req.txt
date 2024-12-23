@@ -1,0 +1,111 @@
+about-time==4.2.1
+absl-py==2.0.0
+alive-progress==3.1.4
+annotated-types==0.6.0
+anyio==4.2.0
+attrs==23.1.0
+autograd==1.6.2
+Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
+brotlipy==0.7.0
+cachetools==5.3.2
+certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
+cffi @ file:///C:/ci_311/cffi_1676423759166/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cma==3.2.2
+colorama==0.4.6
+contourpy==1.1.1
+cryptography @ file:///C:/b/abs_f4do8t8jfs/croot/cryptography_1694444424531/work
+cycler==0.11.0
+delaunay-triangulation==1.0.4
+Deprecated==1.2.14
+dill==0.3.7
+distro==1.8.0
+et-xmlfile==1.1.0
+filelock @ file:///C:/ci_311/filelock_1676427284139/work
+fonttools==4.42.1
+future==0.18.3
+google-ai-generativelanguage==0.4.0
+google-api-core==2.15.0
+google-auth==2.26.1
+google-cloud-aiplatform==1.39.0
+google-cloud-bigquery==3.14.1
+google-cloud-core==2.4.1
+google-cloud-resource-manager==1.11.0
+google-cloud-storage==2.14.0
+google-crc32c==1.5.0
+google-generativeai==0.3.2
+google-resumable-media==2.7.0
+googleapis-common-protos==1.62.0
+grapheme==0.6.0
+grpc-google-iam-v1==0.13.0
+grpcio==1.60.0
+grpcio-status==1.60.0
+h11==0.14.0
+httpcore==1.0.2
+httpx==0.25.2
+idna @ file:///C:/ci_311/idna_1676424932545/work
+inflection==0.5.1
+jdcal==1.4.1
+Jinja2 @ file:///C:/ci_311/jinja2_1676424968965/work
+joblib==1.3.2
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.2
+kiwisolver==1.4.5
+MarkupSafe @ file:///C:/ci_311/markupsafe_1676424152318/work
+matplotlib==3.8.0
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
+networkx @ file:///C:/b/abs_e6gi1go5op/croot/networkx_1690562046966/work
+numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
+numpy @ file:///C:/b/abs_9fu2cs2527/croot/numpy_and_numpy_base_1695830496596/work/dist/numpy-1.26.0-cp311-cp311-win_amd64.whl#sha256=ebb3a554edce1131a5b1b0d4afa8f980929b1226bebc4eb515ac2e29b44186d2
+openai==1.6.0
+openapi==1.1.0
+openpyxl==3.0.10
+ortools==9.7.2996
+packaging==23.1
+pandas @ file:///C:/b/abs_fej9bi0gew/croot/pandas_1702318041921/work/dist/pandas-2.1.4-cp311-cp311-win_amd64.whl#sha256=d3609b7cc3e3c4d99ad640a4b8e710ba93ccf967ab8e5245b91033e0200f9286
+Pillow @ file:///C:/b/abs_153xikw91n/croot/pillow_1695134603563/work
+proto-plus==1.23.0
+protobuf==4.25.0
+psutil==5.9.5
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.5.2
+pydantic_core==2.14.5
+pyllist==0.3
+pymoo==0.6.1.1
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+pyparsing==3.1.1
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///C:/b/abs_19q3ljkez4/croot/pytz_1695131651401/work
+referencing==0.32.0
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+rpds-py==0.15.2
+rsa==4.9
+scikit-learn==1.3.1
+scipy==1.11.2
+shapely==2.0.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+sympy @ file:///C:/ci_311_rebuilds/sympy_1679009400182/work
+threadpoolctl==3.2.0
+torch==2.0.1
+torch-cluster @ file:///C:/Users/yxhuang/Downloads/torch_cluster-1.6.1%2Bpt20cu117-cp311-cp311-win_amd64.whl#sha256=2ce017f1dfa001d0b37be39fb48d7aea83e6a76af82b4aa3365d823bff7937f9
+torch-geometric==2.3.1
+torch-scatter @ file:///C:/Users/yxhuang/Downloads/torch_scatter-2.1.1%2Bpt20cu117-cp311-cp311-win_amd64.whl#sha256=ac94d0470e7ab41ab589ce7c8846a23ed950dd09169164a222f7b6ff7fa7af2b
+torch-sparse @ file:///C:/Users/yxhuang/Downloads/torch_sparse-0.6.17%2Bpt20cu117-cp311-cp311-win_amd64.whl#sha256=18fb2265c9611901b8c1e4d5fb371da2169028b171ca380ee4cadef869a62a8e
+torch-spline-conv @ file:///C:/Users/yxhuang/Downloads/torch_spline_conv-1.2.2%2Bpt20cu117-cp311-cp311-win_amd64.whl#sha256=899140b3027779aeababcc7632968d551272264516fb237562e82a4d11845b92
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.66.1
+typing_extensions @ file:///C:/b/abs_213vg2cd1l/croot/typing_extensions_1690297804941/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
+verypy @ https://github.com/yorak/VeRyPy/zipball/master#sha256=1a09e5ab3965d5bc5820fe9da137db5fa7e878fb354141bc1be2ba8c37bbd427
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+wrapt==1.15.0
+xmltodict==0.13.0
